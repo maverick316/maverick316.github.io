@@ -1377,6 +1377,14 @@ section.lazy-placeholder:after {
 .cid-qOrWtzbuKa .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-snFpH6n4va {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background: linear-gradient(45deg, #ffffff, #25aab2);
+}
+.cid-snFpH6n4va .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-qOspnX5r0c {
   padding-top: 120px;
   padding-bottom: 120px;
